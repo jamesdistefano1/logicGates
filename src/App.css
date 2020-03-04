@@ -1,0 +1,14 @@
+.tweet {
+  background: blue;
+  height: 300px;
+  width: 200px;
+  left: 300px;
+  border: 2px solid black;
+  /*align-items: center;*/
+}
+
+.app {
+  background: green;
+  min-height: 500px;
+  display: flex;
+}
