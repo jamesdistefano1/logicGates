@@ -1,5 +1,7 @@
 import React from 'react';
-import Tweet from './tewwt'
+import Tweet from './tewwt';
+import ReactDOM from 'react-dom';
+import Draggable from 'react-draggable';
 
 function App(){
 
@@ -10,11 +12,11 @@ function App(){
   const james = 0;
 
   return(
-    <div className="app">
-      <h1>yo</h1>
-      <button onClick={sayHi}>hhhhhhh</button>
-      <Tweet name="james"/>
-      <Tweet name="chris"/>
+    //<h1>Project</h1>
+    <div id="canvas">
+      <Draggable>
+        <div id="draggableText">I can now be moved </div>
+      </Draggable>
     </div>
   );
 }
