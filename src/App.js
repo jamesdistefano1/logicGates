@@ -1,6 +1,13 @@
 import React from 'react';
 import Tweet from './tewwt'
 
+const express = require('express');
+const app = express();
+const router = express.Router();
+
+const db = require('./db');
+
+
 function App(){
 
   const sayHi = () => {
