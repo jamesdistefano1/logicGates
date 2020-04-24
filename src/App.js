@@ -1,5 +1,7 @@
 import React from 'react';
 import Tweet from './tewwt'
+import Table from './table'
+import Topper from './topheader'
 
 function App(){
 
@@ -11,10 +13,8 @@ function App(){
 
   return(
     <div className="app">
-      <h1>yo</h1>
-      <button onClick={sayHi}>hhhhhhh</button>
-      <Tweet name="james"/>
-      <Tweet name="chris"/>
+      <Topper/>
+      <Table/> 
     </div>
   );
 }
