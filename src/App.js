@@ -8,6 +8,27 @@ const router = express.Router();
 const db = require('./db');
 
 
+class logicGate {
+  constructor(id, type, inGate, inVal, outGate, result){
+    this.id = id;
+    this.type = type;
+    this.inGate = inGate;
+    this.inVal = inVal
+    this.outGate = outGate;
+    this.result = result;
+  }
+
+  
+}
+
+
+
+
+
+
+
+
+
 function App(){
 
   const sayHi = () => {
@@ -25,5 +46,6 @@ function App(){
     </div>
   );
 }
+
 
 export default App;
