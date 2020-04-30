@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900.0000000000001"
+   height="600"
+   version="1.1"
+   id="svg52"
+   sodipodi:docname="NAND.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata58">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs56" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     id="namedview54"
+     showgrid="false"
+     inkscape:snap-grids="true"
+     inkscape:object-paths="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:zoom="1.2716667"
+     inkscape:cx="440.90944"
+     inkscape:cy="303.86251"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g50" />
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <g
+     id="g41">
+    <title
+       id="title35">background</title>
+    <rect
+       fill="none"
+       id="canvas_background"
+       height="602"
+       width="902"
+       y="-1"
+       x="-1" />
+    <g
+       display="none"
+       overflow="visible"
+       y="0"
+       x="0"
+       height="100%"
+       width="100%"
+       id="canvasGrid">
+      <rect
+         fill="url(#gridpattern)"
+         stroke-width="0"
+         y="0"
+         x="0"
+         height="100%"
+         width="100%"
+         id="rect38" />
+    </g>
+  </g>
+  <g
+     id="g50">
+    <title
+       id="title43">Layer 1</title>
+    <circle
+       id="svg_2"
+       cy="213.36827"
+       cx="124.21364"
+       style="fill:#ffffff;stroke:#000000;stroke-width:8.9637413"
+       r="45.518131" />
+    <ellipse
+       rx="0.714287"
+       id="svg_7"
+       cy="357.547723"
+       cx="1097.144194"
+       fill-opacity="null"
+       stroke-opacity="null"
+       stroke-width="5"
+       stroke="#000"
+       fill="#fff" />
+    <ellipse
+       ry="42.198544"
+       rx="42.591728"
+       id="svg_2-2"
+       cy="387.73593"
+       cx="120.97968"
+       style="fill:#ffffff;stroke:#000000;stroke-width:8.34864998" />
+    <ellipse
+       ry="42.198544"
+       rx="42.591728"
+       id="svg_2-5"
+       cy="299.60681"
+       cx="744.69196"
+       style="fill:#ffffff;stroke:#000000;stroke-width:8.34864998" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5.7713871;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 295.87802,167.23303 c 1.26415,98.64245 0.18413,189.40493 -0.5766,281.24075"
+       id="path4599"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.46281385;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 295.87802,167.22954 c 328.97991,20.20328 483.42685,211.18904 2.83436,278.9811"
+       id="path4601"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 171.41871,212.31472 125.05249,0.79651"
+       id="path4603"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 167.09362,389.65095 125.05261,0.77673"
+       id="path4603-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5.29378414;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 645.62696,302.21254 60.09568,-0.56564"
+       id="path4603-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       ry="20.757387"
+       rx="20.364202"
+       id="svg_2-5-8"
+       cy="302.75229"
+       cx="627.52295"
+       style="fill:#ffffff;stroke:#000000;stroke-width:4.04878712" />
+  </g>
+</svg>
