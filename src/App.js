@@ -1,7 +1,7 @@
 import React from 'react';
 import Tweet from './tewwt'
 import Table from './table'
-import Topper from './topheader'
+import Header from './header'
 
 function App(){
 
@@ -13,7 +13,7 @@ function App(){
 
   return(
     <div className="app">
-      <Topper/>
+      <Header/>
       <Table/> 
     </div>
   );

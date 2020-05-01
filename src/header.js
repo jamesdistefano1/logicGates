@@ -1,9 +1,9 @@
 import React from "react";
-import "./topheader.css";
+import "./header.css";
 
 
 
-function Topper(props){
+function Header(props){
     return(
         <div>
             <div class="header">
@@ -14,7 +14,7 @@ function Topper(props){
 }
     
 
-export default Topper;
+export default Header;
 
 
 
