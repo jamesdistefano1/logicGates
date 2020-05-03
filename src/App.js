@@ -11,10 +11,9 @@ function App(){
 
   return(
     <div className="app">
-      <Header/>
-      <Table/> 
+      <Header />
+      <Table /> 
       <Canvas />
-      <Selection />
     </div>
   );
 }
