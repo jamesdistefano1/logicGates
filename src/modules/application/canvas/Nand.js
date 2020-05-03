@@ -6,8 +6,8 @@ function Nand(){
 
   return(
     <div>
-      <Draggable grid={[50, 50]}>
-        <img src={require('./NAND.svg')} draggable = "false" width = '100' height = '50'/> 
+      <Draggable grid={[20, 20]}>
+        <img src={require('./2_input_base.svg')} draggable = "false" width = "240" height = "120" /> 
       </Draggable>
     </div>
   );
