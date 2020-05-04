@@ -7,7 +7,7 @@ function Or(){
   return(
     <div>
       <Draggable grid={[20, 20]}>
-        <img src={require('./2_input_base.svg')} draggable = "false" width = '240' height = '120'/> 
+        <img src={require('./OR.svg')} draggable = "false" width = '240' height = '120'/> 
       </Draggable>
     </div>
   );
