@@ -17,6 +17,7 @@ class Canvas extends React.Component{
     ]
   }
 
+  
 
   render(){
 
@@ -24,10 +25,18 @@ class Canvas extends React.Component{
       <div>    
         <div id="canvas" style={{height: '500px', width: '90%', position: 'relative', overflow: 'auto',  padding: '0'}}>
           {
-            this.state.gateArray.map((type)=>{
-              return(
-                <Or />
-	      )
+            this.state.gateArray.map((gate)=>{
+              console.log(gate.type);
+              if (gate.type == "OR"){ 
+                return(
+                  <Or />
+	        )
+	      }
+	      if (gate.type == "AND"){
+		return (
+                  <And />
+                )
+	      }
 	    })	    
 	  }
 
