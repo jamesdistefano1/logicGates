@@ -1,5 +1,11 @@
 import React from 'react';
 import Tweet from './tewwt'
+import Table from './table'
+import Header from './header'
+import ReactDOM from 'react-dom';
+import Draggable from 'react-draggable';
+import Canvas from './modules/application/canvas/Canvas.js';
+import Selection from './modules/application/selection/Selection.js';
 
 const express = require('express');
 const app = express();
@@ -18,21 +24,13 @@ const db = require('./db');
 
 function App(){
 
-  const sayHi = () => {
-    document.write("Hi james");
-  };
-
-  const james = 0;
-
   return(
     <div className="app">
-      <h1>yo</h1>
-      <button onClick={sayHi}>hhhhhhh</button>
-      <Tweet name="james"/>
-      <Tweet name="chris"/>
+      <Header />
+      <Table /> 
+      <Canvas />
     </div>
   );
 }
-
 
 export default App;
