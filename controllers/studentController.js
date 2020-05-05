@@ -1,5 +1,5 @@
 const path = require('path');
-const Student = require('../models/students');
+const Student = require('../models/studentModel');
 
 exports.index = function(req,res){
     res.sendFile(path.resolve('views/students.html'));

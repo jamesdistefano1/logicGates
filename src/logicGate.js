@@ -11,7 +11,6 @@ class logicGate extends React.Component{
       this.inVal = inVal // represents the input values that are provided by the two input gates
       this.outGates = outGates; // will likely be an array of ints representing the IDs of the output gates
       this.result = result; // represents the value that is being output from this gate. Calculated in 'getResult'
-      this.image = null; // the SVG image that is representing this gate on the circuit board. Still needs to be determined how this is being interacted with
     }
   
     getResult(inVal, type){ // this is getting the output value of a gate 
@@ -61,6 +60,8 @@ class logicGate extends React.Component{
           }
       }
     }
+
+    
   
     render(){
       
