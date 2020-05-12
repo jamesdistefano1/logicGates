@@ -67,7 +67,7 @@ class logicGate extends React.Component{
       /* so what we want, is for clicking a "Gate Generator" button on the canvas,
        to generate individual instances of this component with the needed properties. From there, we can try to have everything else
       handled within this render function it seems like. It seems like we should be able to localize all the logicGate moving stuff 
-      to here, which would be good because then maybe we can modify props in house
+      to here, which would be good because then maybe we can modify props in house beep
       */
     }
   }
