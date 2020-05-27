@@ -13,6 +13,7 @@ class Canvas extends React.Component{
   state = {
     gateArray : [
       {type: "OR"}, 
+      {type: "OR"},
       {type: "AND"}
     ]
   }
