@@ -7,10 +7,13 @@ function Wire(){
   return(
     <div>
       <Draggable grid={[20, 20]} defaultPosition={{x: 0, y: 0}}>
-        <img src={require('./WIRE_NODE.svg')} draggable = "false" width = '40' height = '40'/>
-      </Draggable> 
+        <img id = 'start' src={require('./WIRE_NODE.svg')} draggable = "false" width = '40' height = '40'/>
+      </Draggable>
+      <svg>
+	  <line id = 'wire'>
+      <svg>
       <Draggable grid={[20, 20]} defaultPosition={{x: 0, y: 0}}>
-        <img src={require('./WIRE_NODE.svg')} draggable = "false" width = '40' height = '40'/>
+        <img id = 'end' src={require('./WIRE_NODE.svg')} draggable = "false" width = '40' height = '40'/>
       </Draggable>
     </div>
   );
