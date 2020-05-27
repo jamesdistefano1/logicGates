@@ -5,7 +5,7 @@ import And from  './And.js';
 import Or from  './Or.js';
 import Nand from './Nand.js';
 import Nor from './Nor.js';
-
+import Wire from './Wire.js';
 
 
 class Canvas extends React.Component{
