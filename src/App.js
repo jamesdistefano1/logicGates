@@ -7,15 +7,16 @@ import Draggable from 'react-draggable';
 import Canvas from './modules/application/canvas/Canvas.js';
 import Selection from './modules/application/selection/Selection.js';
 
-function App(){
+class App extends React.Component{
 
-  return(
+  render(){
+    return(
     <div className="app">
       <Header />
       <Table /> 
-      <Canvas />
     </div>
   );
+}
 }
 
 export default App;
